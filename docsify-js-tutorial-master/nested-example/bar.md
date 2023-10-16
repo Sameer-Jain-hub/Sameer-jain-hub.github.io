@@ -1,3 +1,0 @@
-# Bar
-
-Content about bars.
